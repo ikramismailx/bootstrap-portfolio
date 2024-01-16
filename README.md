@@ -5,7 +5,7 @@ Welcome to Bootstrap Portfolio! This webpage serves as a showcase of my skills, 
 # Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started]{#getting-started}
+- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -35,8 +35,7 @@ cd bootstrap-portfolio
 
 Open the index.html file in your web browser to view the webpage!
 
-![screenshot of webpage]
-
+![screenshot of webpage](./images/bootstrap-portfolio-screenshot.jpeg)
 
 # Usage
 
