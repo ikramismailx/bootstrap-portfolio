@@ -24,7 +24,7 @@
     margin: 0px 15px;
 }
 
-.skyBackground {
+.cityBackground {
     background-image: url(../images/bg.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
