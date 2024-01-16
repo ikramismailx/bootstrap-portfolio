@@ -5,6 +5,7 @@ Welcome to Bootstrap Portfolio! This webpage serves as a showcase of my skills, 
 # Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Getting Started]{#getting-started}
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -17,6 +18,25 @@ This online portfolio presents my endeavors as an emerging developer, offering a
 - Projects: Explore a selection of projects I've worked on. You can find links to the live projects and their source code. Additionally, my favourite hobbies and goals are included to give the user more insight into myself.
 - Skills: Check out the listed of skills I have learned to be able to achieve the way this web is designed. 
 - Responsive Design: The webpage is designed to be fully responsive, ensuring a great user experience on various devices.
+
+# Getting Started
+To get a copy of this project up and running on your local machine, follow these steps:
+
+Clone this repository to your local machine using git clone:
+```
+git clone git@github.com:ikramismailx/bootstrap-portfolio.git
+```
+
+Navigate to the project directory:
+
+```
+cd bootstrap-portfolio
+```
+
+Open the index.html file in your web browser to view the webpage!
+
+![screenshot of webpage]
+
 
 # Usage
 
